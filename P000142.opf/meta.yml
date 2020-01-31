@@ -1,0 +1,35 @@
+ebook_metadata:
+  title: ༄༅༔ མན་ངག་གསེར་གྱི་ཐུར་མ་ཅན་ཞེས་བྱ་བ་བཞུགས་སོ༔
+  authors:
+  - མཛད་པ་པོ། མྱང་ཉི་མ་འོད་ཟེར།
+  sku: SHE-RTD-14
+  layers:
+  - book_title
+  - author
+  - chapter_title
+web_metadata:
+  title:
+    en: The Golden Scalpel of Instruction
+    bo: མན་ངག་གསེར་གྱི་ཐུར་མ་ཅན་ཞེས་བྱ་བ་བཞུགས་སོ༔
+  collection:
+    en: Treasury of Precious Termas–  Book 14
+    bo: རིན་ཆེན་གཏེར་མཛོད།–  དེབ། ༡༤
+  author:
+    en: Nyangral Nyima Oser
+    bo: ཉང་རལ་ཉི་མ་འོད་ཟེར།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-RTD-14
+  category:
+    en: Deity Practice
+    bo: བསྐྱེད་རིམ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-RTD-14.epub
+  description:
+    en: ''
+    bo: ''
