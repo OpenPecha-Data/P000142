@@ -1,12 +1,14 @@
-ebook_metadata:
+id: P000142
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅༔ མན་ངག་གསེར་གྱི་ཐུར་མ་ཅན་ཞེས་བྱ་བ་བཞུགས་སོ༔
   authors:
   - མཛད་པ་པོ། མྱང་ཉི་མ་འོད་ཟེར།
-  sku: SHE-RTD-14
   layers:
   - book_title
   - author
   - chapter_title
+  id: SHE-RTD-14
 web_metadata:
   title:
     en: The Golden Scalpel of Instruction
